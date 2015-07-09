@@ -1,0 +1,178 @@
+[{
+    "name": "3 river wireless",
+    "domain": "sms.3rivers.net"
+}, {
+    "name": "acs wireless",
+    "domain": "paging.acswireless.com"
+}, {
+    "name": "alltel",
+    "domain": "message.alltel.com"
+}, {
+    "name": "at&t",
+    "domain": "txt.att.net"
+}, {
+    "name": "blue sky frog",
+    "domain": "blueskyfrog.com"
+}, {
+    "name": "bluegrass cellular",
+    "domain": "sms.bluecell.com"
+}, {
+    "name": "boost mobile",
+    "domain": "myboostmobile.com"
+}, {
+    "name": "bpl mobile",
+    "domain": "bplmobile.com"
+}, {
+    "name": "carolina west wireless",
+    "domain": "cwwsms.com"
+}, {
+    "name": "cellular one",
+    "domain": "mobile.celloneusa.com"
+}, {
+    "name": "cellular south",
+    "domain": "csouth1.com"
+}, {
+    "name": "centennial wireless",
+    "domain": "cwemail.com"
+}, {
+    "name": "century tel",
+    "domain": "messaging.centurytel.net"
+}, {
+    "name": "cingular",
+    "domain": "txt.att.net"
+}, {
+    "name": "clearnet",
+    "domain": "msg.clearnet.com"
+}, {
+    "name": "comcast",
+    "domain": "comcastpcs.textmsg.com"
+}, {
+    "name": "corr wireless communications",
+    "domain": "corrwireless.net"
+}, {
+    "name": "dobson",
+    "domain": "mobile.dobson.net"
+}, {
+    "name": "edge wireless",
+    "domain": "sms.edgewireless.com"
+}, {
+    "name": "fido",
+    "domain": "fido.ca"
+}, {
+    "name": "golden telecom",
+    "domain": "sms.goldentele.com"
+}, {
+    "name": "helio",
+    "domain": "messaging.sprinpcs.com"
+}, {
+    "name": "houston cellular",
+    "domain": "text.houstoncellular.net"
+}, {
+    "name": "idea cellular",
+    "domain": "ideacellular.net"
+}, {
+    "name": "illinois cellular telephone",
+    "domain": "ivctext.com"
+}, {
+    "name": "inland cellular telephone",
+    "domain": "inlandlink.com"
+}, {
+    "name": "mci",
+    "domain": "pagemci.com"
+}, {
+    "name": "metrocall",
+    "domain": "page.metrocall.com"
+}, {
+    "name": "metrocall 2-way",
+    "domain": "my2way.com"
+}, {
+    "name": "metro pcs",
+    "domain": "mymetropcs.com"
+}, {
+    "name": "microcell",
+    "domain": "fido.ca"
+}, {
+    "name": "midweste wireless",
+    "domain": "clearlydigital.com"
+}, {
+    "name": "mobilcomm",
+    "domain": "mobilecomm.net"
+}, {
+    "name": "mts",
+    "domain": "text.mtsmobility.com"
+}, {
+    "name": "nextel",
+    "domain": "messaging.nextel.com"
+}, {
+    "name": "onlinebeep",
+    "domain": "onlinebeep.net"
+}, {
+    "name": "pcs one",
+    "domain": "pcsone.net"
+}, {
+    "name": "president's choice",
+    "domain": "txt.bell.ca"
+}, {
+    "name": "public service cellular",
+    "domain": "sms.pscel.com"
+}, {
+    "name": "qwest",
+    "domain": "qwestmp.com"
+}, {
+    "name": "rogers at&t wireless",
+    "domain": "pcs.rogers.com"
+}, {
+    "name": "rogers canada",
+    "domain": "pcs.rogers.com"
+}, {
+    "name": "satelink",
+    "domain": "satelink.net"
+}, {
+    "name": "southwestern bell",
+    "domain": "email.swbw.com"
+}, {
+    "name": "sprint",
+    "domain": "messaging.sprintpcs.com"
+}, {
+    "name": "sumcom",
+    "domain": "tms.suncom.com"
+}, {
+    "name": "surewest communications",
+    "domain": "mobile.surewest.com"
+}, {
+    "name": "t-mobile",
+    "domain": "tmomail.net"
+}, {
+    "name": "telus",
+    "domain": "msg.telus.com"
+}, {
+    "name": "triton",
+    "domain": "tms.suncom.com"
+}, {
+    "name": "tracfone",
+    "domain": "txt.att.net"
+}, {
+    "name": "unicel",
+    "domain": "utext.com"
+}, {
+    "name": "us cellular",
+    "domain": "email.uscc.net"
+}, {
+    "name": "us west",
+    "domain": "uswestdatamail.com"
+}, {
+    "name": "verizon",
+    "domain": "vtext.com"
+}, {
+    "name": "virgin mobile",
+    "domain": "vmobl.com"
+}, {
+    "name": "virgin mobile canada",
+    "domain": "vmobile.ca"
+}, {
+    "name": "western central wireless",
+    "domain": "sms.wcc.net"
+}, {
+    "name": "western wireless",
+    "domain": "cellularonewest.com"
+}]

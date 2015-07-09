@@ -1,0 +1,82 @@
+@CHARSET "ISO-8859-1";
+
+.navbar {
+	margin-bottom: 0px;
+}
+
+#greeting {
+	color: white;
+}
+
+.navbar-default {
+	background-color: inherit;
+	border-color: inherit;
+}
+
+.menu .links ul{
+	margin: 0px;
+	padding: 0px;
+}
+
+.rest_disp section{
+	word-wrap: break-word;
+}
+
+.ui-dialog.register .ui-dialog.edit{
+	z-index: 20001;
+}
+
+.ui-widget-overlay {
+	z-index: 20000;
+}
+.register .ui-dialog{
+	border: none;
+}
+.register .ui-dialog-titlebar, .edit .ui-dialog-titlebar{
+	padding: 1.2em 2em;
+}
+.register .ui-widget-header, .edit .ui-widget-header{
+	border: none;
+	background: none;
+	color: black;
+}
+.register .ui-widget-content, .edit.ui-widget-content{
+	background: none;
+	border: none;
+}
+
+.register .ui-dialog-titlebar-close {
+	position: absolute;
+	right: 2.3em;
+	top: 115%;
+	width: 21px;
+	padding: 0px 1px 1px 1px;
+	height: 20px;
+	z-index: 99999;
+}
+
+.edit .ui-dialog-titlebar-close {
+  position: absolute;
+  right: 2.3em;
+  top: 204%;
+  width: 21px;
+  padding: 0px 1px 1px 1px;
+  height: 20px;
+  z-index: 99999;
+}
+
+.food_selection .ui-widget-header {
+	background: none;
+	background-color: maroon;
+	color: white;
+}
+ul.promos {
+	padding: 0px;
+	line-height: 2.5em;
+}
+.extruder.right .flap{
+	left: -30px !important;
+}
+#extruderRight div.extruder-content {
+	overflow-y: auto !important;
+}

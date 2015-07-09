@@ -1,0 +1,286 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+    background: url(../images/tile_bg.png) repeat;
+}
+
+html body {
+    margin: 0px;
+    height: 100%;
+}
+
+.clear {
+    clear: both;	
+}
+
+.topCont {
+    background: url(../images/napkn_texture.png);
+    width: inherit;
+    height: 400px;
+    box-shadow: 3px 5px 15px black;
+}
+
+.mainCont:before{
+    clear: both;
+    display: block;
+    height: 225px;
+    position: relative;
+    width: 1050px;
+    margin: 0 auto;
+}
+.no-pad {
+	padding-left: 0px;
+	padding-right: 0px;	
+}
+.topPanel {
+    background-color: white;
+    width: 800px;
+    height: 0px;
+    margin: auto;
+    box-shadow: 3px 3px 10px black;
+    border-radius: 0 0 20px 20px;
+}
+
+.member_cont {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: auto;
+    background-color: maroon;
+	padding: 20px 0 20px 0;
+}
+
+
+.member_tab a, .topPanel .member_tab .spacer_10px {
+    float: left;	
+}
+
+.spacer_10px {
+    width: 10px;
+    height: 20px;
+}
+
+.spacer_50px {
+    width: 50px;
+    height: 20px;	
+}
+
+.spacer_100px {
+    width: 100px;
+    height: 20px;	
+}
+
+.search_form {
+    max-width: 550px;
+    margin: auto;
+    font-family: Tahoma, Geneva, sans-serif;	
+}
+
+.search_form input{
+    vertical-align: bottom;
+}
+input {
+    color: black;
+}
+input.addr_search {
+    height: 25px;
+    border-radius: 6px;
+    font-size: 20px;	
+    padding-left: 0px;
+}
+
+input.food_search {
+    height: 25px;
+    border-radius: 6px;
+    font-size: 20px;
+    padding-left: 0px;
+}
+
+@media (max-width: 768px) {
+	.main_logo {
+		position: absolute;
+		top: 119px;
+		width: 400px;
+	}
+}
+	
+@media (min-width: 768px) {
+	.main_logo {
+	    position: absolute;
+	    top: 13px;
+	    left: -4px;
+	}
+}
+	
+.top_nav {
+    height: 50px;
+    width: inherit;	
+}
+
+.left {
+    float: left;
+    padding: 10px;	
+}
+
+.right {
+    float: right;
+    padding: 10px;	
+}
+
+#register {
+    cursor: pointer;	
+}
+
+.mainCont {
+    width: 100%;
+    margin: auto;
+    height: 1000px;
+}
+
+.accntsCont {
+    background: url(../images/bulletin_bg.png) repeat;
+    width: 100%;
+    margin: auto;
+    height: 500px;
+    box-shadow: 0 0px 3px black;
+}
+.section_bg{
+    background: url(../images/metal_bg.png)repeat;
+    width: 75%;
+    height: 100%;
+    padding: 7px;
+    margin: 112px auto auto;
+    border-radius: 5px;
+}
+.search_bar{
+    height: auto;
+    color: white;
+    margin: auto;
+    max-width: 600px;
+}
+.main_container {
+}
+
+#login_form {
+    width: 150px;
+    margin: 15px auto;
+}
+
+.register form {
+    width: 400px;
+    margin: 25px auto;
+}
+
+.register .labels {
+    padding-bottom: 15px;
+    display: inline-block;
+}
+
+.register form div {
+    display: inline-block;	
+}
+
+.register form .addr1,
+.register form .addr2 {
+    width: 250px;	
+}
+
+.register form .zip,
+.register form .apt,
+.register form .phone {
+    width: 45px;	
+}
+.register form .city {
+    width: 100px;	
+}
+/*******************Edit form styles*******************/
+.edit form {
+    width: 400px;
+    margin: 25px auto;
+}
+
+.edit .labels {
+    padding-bottom: 15px;
+    display: inline-block;
+}
+
+.edit form div {
+    display: inline-block;  
+}
+
+.edit form .addr1,
+.edit form .addr2 {
+    width: 250px;   
+}
+
+.edit form .zip,
+.edit form .apt,
+.edit form .phone {
+    width: 45px;    
+}
+.edit form .city {
+    width: 100px;   
+}
+/******************************************************/
+
+form .err {
+    color: red;	
+}
+
+.validation_errors {
+	color: red;	
+}
+
+.ticket {
+    height: 350px;
+    background-image: url(../images/ticket_1.png);
+    background-repeat: no-repeat;
+    width: 292px;
+}
+
+.label {
+    color: black;
+}
+
+.layer1,
+.layer2,
+.layer3,
+.layer4,
+.layer6 {
+    position: relative;
+}
+
+.topPanel .plate {
+    left: -160px;
+    width: 1116px;	
+}
+
+.layer5 {
+    position: absolute;	
+}
+
+.layer1 {
+    z-index: 10000;	
+}
+
+.layer2 {
+    z-index: 10001;	
+}
+
+.layer3 {
+    z-index: 10002;	
+}
+
+.layer4{
+    z-index: 10003;	
+}
+
+.layer5 {
+    z-index: 10004;	
+}
+
+.layer6 {
+    z-index: 10005;	
+}
+
