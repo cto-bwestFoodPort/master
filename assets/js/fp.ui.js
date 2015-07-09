@@ -587,14 +587,17 @@ var fp = {
                             height: 300,
                             width: '15em'
                         };
-
-                        fp.ui.buildDialog(dialogOptions);
+                        if(sessionStorage.getItem('isCustomer') === null)
+                        {
+                            fp.ui.buildDialog(dialogOptions);
+                        }
 
                         $('.welcome_dialog').find('.ui-dialog-titlebar').remove();
                         $('.welcome_dialog .ui-dialog-content').load("assets/views/home/welcome_dialog.php");
                         $('.welcome_dialog .ui-dialog-content').addClass('col-lg-12');
                         $('.welcome_dialog').on('click', '#customers_link', function(e){
                             $('.welcome_dialog .dialog').dialog("close");
+                            sessionStorage.setItem('isCustomer', true);
                             return false;
                         }); 
                         //Handler for menu items
